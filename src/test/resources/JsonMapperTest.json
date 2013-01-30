@@ -1,0 +1,25 @@
+{
+   "stringKey":"stringValue",
+   "integerKey":123,
+   "floatKey":123.456,
+   "trueKey":true,
+   "falseKey":false,
+   "nullKey":null,
+   "emptyArrayKey":[],
+   "arrayKey":[
+       {"subKey":"subValue1","a":["a","b","c"]},
+       {"subKey":"subValue2","a":["d","e","f"]}
+
+   ],
+   "emptyObjectKey":{},
+   "objectKey":{
+       "aKey":"aValue",
+       "bKey":"bValue"
+   },
+   "mapKey":{
+       "aKey":"aValue",
+       "bKey":"bValue"
+   },
+   "stringKey2":"This is a good day to test something",
+   "elementType":"FIELD"
+}

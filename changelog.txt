@@ -1,0 +1,7 @@
+Version 1.0.2
+    * added functionality to unmarshall lists
+    * refactoring to introduce Property Providers in future
+
+Version 1.0.3
+    * added some built-in types marshalling support
+    * escaping on marshalling
